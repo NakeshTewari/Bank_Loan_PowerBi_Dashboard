@@ -28,7 +28,7 @@ An interactive Power BI dashboard built to analyze bank loan performance, funded
 
 ## Dashboard Preview
 
-![Dashboard](YOUR_IMAGE_NAME.png)
+![Dashboard](Screenshot 2026-05-24 234029.png)
 
 ## Business Insights
 - Identified high-risk loan categories
